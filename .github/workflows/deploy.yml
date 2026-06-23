@@ -15,7 +15,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Generate Roq Site
         uses: quarkiverse/quarkus-roq@v1.1
         with:
