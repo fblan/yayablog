@@ -12,17 +12,10 @@ This is my first blog ever :)
 
 The story:
 
-19:25 : creation of the project using 
-`
-roq create yayablog
-`
-19:27 push on github
+- **19:25** — created the project with `roq create yayablog`
+- **19:27** — first push on GitHub
+- **19:27–19:55** — looked for the Pages setting... couldn't find it at first, asked Claude for help, bad idea (he wanted to change the publish script), finally found the settings page *(it is the end of the day, okay? :)*
+- **19:55** — pushed the rollback
+- **19:57** — site is online 🎉
 
-look for page in settings on github, I didn't find it at first,
-then I ask to claude to help, he ask to change something in the publish script : bad idea
-finally find the settings page (it is the end of the day, okay? :) )
-19:55 push the rollback
-
-19:57 site is online
-
-
+Well, that was quite easy!!!
